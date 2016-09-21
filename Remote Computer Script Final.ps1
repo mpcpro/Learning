@@ -283,3 +283,5 @@ Write-host "Invalid"
 
 # Ting å fikse:
 # Fikse "Enter" som default for Yes.
+
+# Test
